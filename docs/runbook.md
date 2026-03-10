@@ -1,5 +1,16 @@
 # Runbook Operacional - StreamFlow
 
+## Metadados do Documento
+- Documento:
+- Versão:
+- Status: Rascunho | Em revisão | Aprovado
+- Responsável (owner):
+- Aprovador:
+- Última atualização:
+- Próxima revisão:
+- Público-alvo:
+- Classificação da informação: Interna | Restrita | Confidencial
+
 ## 1. Objetivo do Runbook
 - Serviço/sistema coberto:
 - Cenários de aplicação:
@@ -20,8 +31,8 @@
 - Validar status de dependências:
 - Conferir incidentes correlacionados:
 
-## 5. Cenários de Incidente
-### 5.1 Cenário: [nome do incidente]
+## 5. Cenários de Incidente (preencher por cenário)
+### 5.X Cenário: [nome do incidente]
 **Sinais e gatilhos:**
 
 **Diagnóstico inicial:**
